@@ -25,7 +25,7 @@ This Flask application serves as an API for scraping and searching syllabus data
 
 3. Run the Flask application:
    ```
-   python app.py
+   python main.py
    ```
 
 ## Usage
