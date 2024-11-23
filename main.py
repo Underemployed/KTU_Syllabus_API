@@ -14,129 +14,66 @@ app = Flask(__name__)
 DATA_FILE = "syllabus.json"
 SCRAPE_URL = "https://www.ktuqbank.com/p/ktu-2019-batch-btech-syllabus.html"
 last_scrape_time = None
+
 def scrape_and_save(link):
-    global last_scrape_time
-
     response = requests.get(link)
-
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, "html.parser")
-
         table = soup.find("table", {"class": "table-mc-blue"})
-
+        
         if table:
-            links_dict = {}
             data_dict = {}
-
             rows = table.find_all("tr")
-
+            
             for row in rows:
                 cells = row.find_all("td")
-
                 if len(cells) >= 3:
                     branch_name = cells[1].text.strip()
-                    semester_buttons = cells[2].find_all("button")
-
-                    branch_links = {}
+                    year_buttons = cells[2].find_all("button")
                     branch_data = {}
-
-                    for button in semester_buttons:
-                        semester = button.find("span").text
-                        link = button.get("onclick").split("'")[1]
-                        branch_links[semester] = link
-
-                        semester_data = {}
-                        response = requests.get(link, timeout=2000)
-
-                        if response.status_code == 200:
-                            soup = BeautifulSoup(response.text, "html.parser")
-
-                            tables = soup.find_all(
-                                "table",
-                                {
-                                    "class": "table table-bordered table-striped table-hover table-mc-blue"
-                                },
-                            )
-
-                            if tables:
-                                for i, table in enumerate(tables):
-                                    course_semester = f"Semester {semester}"
-                                    semester_data[course_semester] = {}
-                                    rows = table.find_all("tr")[1:]
-
-                                    for row in rows:
-                                        cells = row.find_all("td")
-                                        if len(cells) == 2:
-                                            course_name = (
-                                                cells[0].find("center").text.strip()
-                                            )
-                                            try:
-                                                drive_link = (
-                                                    cells[1]
-                                                    .find("button")
-                                                    .get("onclick")
-                                                    .split("'")[1]
-                                                )
-                                            except AttributeError as e:
-                                                print(
-                                                    f"Error extracting link for {course_name}: {e}"
-                                                )
-                                                drive_link = link
-
-                                            semester_data[course_semester][
-                                                course_name
-                                            ] = drive_link
-
-                            else:
-                                print("Table not found on the webpage.")
-                        else:
-                            print(
-                                "Failed to retrieve the webpage. Status code:",
-                                response.status_code,
-                            )
-
-                        branch_data[semester] = semester_data
-
-                    links_dict[branch_name] = branch_links
+                    
+                    # Process each year (which contains 2 semesters)
+                    for year_idx, year_button in enumerate(year_buttons, 1):
+                        year_link = year_button.get("onclick").split("'")[1]
+                        year_response = requests.get(year_link, timeout=2000)
+                        
+                        if year_response.status_code == 200:
+                            year_soup = BeautifulSoup(year_response.text, "html.parser")
+                            semester_tables = year_soup.find_all("table", {"class": "table table-bordered table-striped table-hover table-mc-blue"})
+                            
+                            # Process both semesters in this year
+                            for sem_idx, sem_table in enumerate(semester_tables, 1):
+                                actual_sem = (year_idx - 1) * 2 + sem_idx
+                                semester_key = f"Semester {actual_sem}"
+                                print(f"Fetching data for {branch_name}, {semester_key}")
+                                
+                                semester_data = {}
+                                rows = sem_table.find_all("tr")[1:]
+                                
+                                for row in rows:
+                                    cells = row.find_all("td")
+                                    if len(cells) == 2:
+                                        course_name = cells[0].find("center").text.strip()
+                                        try:
+                                            button = cells[1].find("button")
+                                            drive_link = button.get("onclick").split("'")[1] if button else "#no_link"
+                                        except AttributeError:
+                                            drive_link = "#no_link"
+                                        
+                                        semester_data[course_name] = drive_link
+                                
+                                branch_data[semester_key] = semester_data
+                    
                     data_dict[branch_name] = branch_data
-
-            new_data = {}
-            for course, years in data_dict.items():
-                new_data[course] = {}
-                for year, semesters in years.items():
-                    for semester, subjects in semesters.items():
-                        if semester in new_data[course]:
-                            new_data[course][semester].extend(subjects)
-                        else:
-                            new_data[course][semester] = subjects
-
+            
             with open(DATA_FILE, "w") as output_file:
-                json.dump(new_data, output_file, indent=2)
-
-            last_scrape_time = time.time()
-
-            print("Data saved as 'syllabus.json'")
-        else:
-            print(f"Table not found on the webpage: {link}")
-    else:
-        print(
-            f"Failed to retrieve the webpage {link}. Status code: {response.status_code}"
-        )
-
-    return new_data
-
-def scrape_if_needed():
-    global last_scrape_time
-
-    if not os.path.exists(DATA_FILE):
-        scrape_and_save(SCRAPE_URL)
-    elif last_scrape_time is None or time.time() - last_scrape_time > 30 * 24 * 60 * 60:  # 30 days
-        scrape_and_save(SCRAPE_URL)
+                json.dump(data_dict, output_file, indent=2)
+            
+            return data_dict
 
 @app.route('/scrape', methods=['GET'])
 def get_data():
     try:
-        scrape_if_needed()
         with open(DATA_FILE, "r") as data_file:
             data = json.load(data_file)
         return jsonify(data)
@@ -177,12 +114,7 @@ def handle_bad_request(e):
 def handle_internal_server_error(e):
     return jsonify(error=str(e)), 500
 
-def periodic_scrape():
-    scheduler = BackgroundScheduler()
-    scheduler.add_job(func=scrape_and_save, trigger="interval", args=[SCRAPE_URL], days=30)
-    scheduler.start()
 
 if __name__ == '__main__':
-    scrape_if_needed()
-    periodic_scrape()
-    app.run(debug=True)
+    scrape_and_save(SCRAPE_URL)
+

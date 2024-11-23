@@ -1,1 +1,7 @@
 venv
+.env
+secret.py
+pdfs
+*.pyc
+__pycache__
+service_account.json

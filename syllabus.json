@@ -1,6 +1,20 @@
 {
-  "Computer Science Engineering": {
-    "Semester 1": {
+  "CSE": {
+    "S1": {
+      "Linear Algebra And Calculus - (MAT101)": "https://drive.google.com/file/d/1shDtaV3Rx8t1AcCjhMhMNNbSdtxlFDUn/view?usp=sharing",
+      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
+      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
+      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
+      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
+      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
+      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
+      "Life Skills - (HUN101)": "https://drive.google.com/file/d/1hBpNM5JYM7RJvJJOmNcaG4ZhDyHwrxwD/view?usp=sharing",
+      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
+      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
+      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
+      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
+    },
+    "S2": {
       "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
       "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
       "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
@@ -15,7 +29,19 @@
       "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
       "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
     },
-    "Semester 2": {
+    "S3": {
+      "Discrete Mathematical Structures - (MAT203)": "https://drive.google.com/open?id=1nywjqmRHya3a-U0_dPFFAZwfa40zwkGk",
+      "Data Structures - (CST201)": "https://drive.google.com/open?id=15xO7XvSAc-d2uTAiH85zVjz8G650Ah8b",
+      "Logic System Design - (CST203)": "https://drive.google.com/open?id=1xZr7lOA2q4FLvDXNI1iHtje58ULXoE8_",
+      "Object Oriented Programming Using Java - (CST205)": "https://drive.google.com/open?id=1xJLceTY1WH5-kNfeRgf-xMBSM5uxfVx1",
+      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
+      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
+      "Sustainable Engineering - (MCN201)": "https://drive.google.com/open?id=1IIatwfzwX0L28DTsN5JmEeqrfVCEDkFj",
+      "Data Structures Lab - (CSL201)": "https://drive.google.com/open?id=1rXCMZsRACgt9_ub6RKzOwqTYVDPCFrnT",
+      "Object Oriented Programming Lab (In Java) - (CSL203)": "https://drive.google.com/open?id=18fCgM6d6F-TrFPoTMZWtE6qenWYPFn1K",
+      "Remedial/Minor/Honors Course - (VAC) - S3": "#"
+    },
+    "S4": {
       "Graph Theory - (MAT206)": "https://drive.google.com/open?id=1W0l2Pav5dLYWanMe-Ultbd-cm4LVt5fR",
       "Computer Organisation And Architecture - (CST202)": "https://drive.google.com/open?id=1LQh1fnHyFjlDVFgtpcXU9tuZBqFcLu76",
       "Database Management Systems - (CST204)": "https://drive.google.com/open?id=1hBlM6P10DAbhv8hj1dR8nIWMYF2ehMiz",
@@ -25,31 +51,66 @@
       "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
       "Digital Lab - (CSL202)": "https://drive.google.com/open?id=13fYuLQXzB5pdsD74QM5WEU50uWhqZvvY",
       "Operating Systems Lab - (CSL204)": "https://drive.google.com/open?id=1MYGAhUXrEz4UmIfopge15-u9_SbBJ6T8",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/computer-science-engineering-year-2_20.html"
+      "Remedial/Minor/Honors Course - (VAC) - S4": "#"
     },
-    "Semester 3": {
+    "S5": {
+      "Formal Languages And Automata Theory - (CST301)": "https://drive.google.com/open?id=1gSDQTP-JNMB67YcS6hU6j93P364kJqv3",
+      "Computer Networks - (CST303)": "https://drive.google.com/open?id=11lWie2DJxvQEaMIKv1Dk_R_5jBplVsNy",
+      "System Software - (CST305)": "https://drive.google.com/open?id=163ZyfbzQ0_vLbRQkeddJ2bWAwZlbLhxE",
+      "Microprocessors And Microcontrollers - (CST307)": "https://drive.google.com/open?id=1bkdsCDr-ntD8uTUbIpFx07ylAbf4ANZc",
+      "Management Of Software Systems - (CST309)": "https://drive.google.com/open?id=1bYDnMN7cdEprhQhKd4nYvJbyVvHtFpJm",
+      "Disaster Management - (MCN301)": "https://drive.google.com/open?id=1zyt6QnDBJPU_7WlP2bPwkAwkHk1tP6AS",
+      "System Software And Microprocessors Lab - (CSL331)": "https://drive.google.com/open?id=1vDK0cKqT9_71hoBnZURAZ0Exz2MAPiFA",
+      "Database Management Systems Lab - (CSL333)": "https://drive.google.com/open?id=1KpT-sA1KYh-KBHoKcuOoZPp_gZBNLh6q",
+      "Remedial/Minor/Honors Course - (VAC) - S5": "#"
+    },
+    "S6": {
       "Compiler Design - (CST302)": "https://drive.google.com/open?id=1ZGYBtykNPgvlf0um0KCnUbL4GgxE9zaU",
       "Computer Graphics And Image Processing - (CST304)": "https://drive.google.com/open?id=1CGFUrB1vXHnznkOy2ksgj9Ic7NHG5FnG",
       "Algorithm Analysis And Design - (CST306)": "https://drive.google.com/open?id=1ggMHVC5HOGcRMkvm-GT_cD8LNLEdq63b",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/computer-science-engineering-year-3_20.html",
+      "Elective - I": "#",
       "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
       "Comprehensive Course Work - (CST308)": "https://drive.google.com/open?id=1bcOt73qSf2vTTrPLmRWpN2Y7vaOdgwRz",
       "Networking Lab - (CSL332)": "https://drive.google.com/open?id=1JjM4jENbZUWLN979c_ceLm8yfYQXT1sP",
       "Miniproject - (CSD334)": "https://drive.google.com/open?id=11qWo8DyxOZhKd2ekny80Eyy3-JlAd0bw",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/computer-science-engineering-year-3_20.html"
+      "Remedial/Minor/Honors Course - (VAC) - S6": "#"
     },
-    "Semester 4": {
+    "S7": {
+      "Artificial Intelligence - (CST401)": "#",
+      "Elective - II": "#",
+      "Elective - Open": "#",
+      "Industrial Safety Engineering - (MCN401)": "#",
+      "Compiler Lab - (CSL411)": "#",
+      "Seminar - (CSQ413)": "#",
+      "Project Phase I - (CSD415)": "#",
+      "Remedial/Minor/Honors Course - (VAC)": "#"
+    },
+    "S8": {
       "Distributed Computing - (CST402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/computer-science-engineering-year-4_9.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/computer-science-engineering-year-4_9.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/computer-science-engineering-year-4_9.html",
+      "Elective - III": "#",
+      "Elective - IV": "#",
+      "Elective - V": "#",
       "Comprehensive Course Viva - (CST404)": "#",
       "Project Phase II - (CSD416)": "#",
       "Remedial/Minor/Honors Course - (VAC)": "#"
     }
   },
-  "Mechanical Engineering": {
-    "Semester 1": {
+  "ME": {
+    "S1": {
+      "Linear Algebra And Calculus - (MAT101)": "https://drive.google.com/file/d/1shDtaV3Rx8t1AcCjhMhMNNbSdtxlFDUn/view?usp=sharing",
+      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
+      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
+      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
+      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
+      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
+      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
+      "Life Skills - (HUN101)": "https://drive.google.com/file/d/1hBpNM5JYM7RJvJJOmNcaG4ZhDyHwrxwD/view?usp=sharing",
+      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
+      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
+      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
+      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
+    },
+    "S2": {
       "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
       "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
       "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
@@ -64,7 +125,19 @@
       "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
       "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
     },
-    "Semester 2": {
+    "S3": {
+      "Partial Differential Equation And Complex Analysis - (MAT201)": "https://drive.google.com/open?id=14s_qkKQvD8cWrl-fTuZ7JkRrdPPdb2qW",
+      "Mechanics Of Solids - (MET201)": "https://drive.google.com/open?id=1-bTuCqmqJe3fiNGHfMCXIzkWs0p7ijhm",
+      "Mechanics Of Fluids - (MET203)": "https://drive.google.com/open?id=1o2r7vJG3VZ2YSb8NmPynmbpmsYGUfXpL",
+      "Metallurgy & Material Science - (MET205)": "https://drive.google.com/open?id=1uNJ9OaCr-GoaE9ZVHm33xEzufDphaVU1",
+      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
+      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
+      "Sustainable Engineering - (MCN201)": "https://drive.google.com/open?id=1IIatwfzwX0L28DTsN5JmEeqrfVCEDkFj",
+      "Computer Aided Machine Drawing - (MEL201)": "https://drive.google.com/open?id=1yixcdHUOEEoc_AnUg8v6c3gclo_szNjS",
+      "Materials Testing Lab - (MEL203)": "https://drive.google.com/open?id=1ECO_z9Pkh4oFqZ8Ew-Fl9OZ_CM-matxU",
+      "Remedial/Minor/Honors Course - (VAC) - S3": "#"
+    },
+    "S4": {
       "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
       "Engineering Thermodynamics - (MET202)": "https://drive.google.com/open?id=1dXJPL1QNcKCOvw2H_qrcWHPJ7L2OWSej",
       "Manufacturing Process - (MET204)": "https://drive.google.com/open?id=1TE-zQzd-gpt2_pGlsapYt0cYFPxvmGM0",
@@ -74,32 +147,68 @@
       "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
       "Fm & Hm Lab - (MEL202)": "https://drive.google.com/open?id=1n3uQ1rMpl2xtrm2cwcYTna_EEyek0MbB",
       "Machine Tools Lab-I - (MEL204)": "https://drive.google.com/open?id=1MKScLAS3gS6biY63QfGimas_uND33-hT",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/mechanical-engineering-year-2-syllabus.html"
+      "Remedial/Minor/Honors Course - (VAC) - S4": "#"
     },
-    "Semester 3": {
+    "S5": {
+      "Mechanics Of Machinery - (MET301)": "https://drive.google.com/open?id=1aV1RSFt9ksDxRH6gTiqqHm-5CJh5u9o9",
+      "Thermal Engineering - (MET303)": "https://drive.google.com/open?id=1TJVAo8HFWJrAx9R-pfpbh4kBitWJCbKV",
+      "Industrial & Systems Engineering - (MET305)": "https://drive.google.com/open?id=1MBzlFuaO8fyg9HlecItwQBStf4HHSh8H",
+      "Machine Tools And Metrology - (MET307)": "https://drive.google.com/open?id=1nG-u3lLZ472Hkb1IgKM8dF7sNOHnwGD5",
+      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
+      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
+      "Disaster Management - (MCN301)": "https://drive.google.com/open?id=1zyt6QnDBJPU_7WlP2bPwkAwkHk1tP6AS",
+      "Machine Tools Lab-II - (MEL331)": "https://drive.google.com/open?id=1jjTbU0ms1zFQppLJRAj9fGcE6K59iaPM",
+      "Thermal Engineering Lab-I - (MEL333)": "https://drive.google.com/open?id=1KWxS3iXvMzPnPus7OmaNSTPn5GfdOo7H",
+      "Remedial/Minor/Honors Course - (VAC) - S5": "#"
+    },
+    "S6": {
       "Heat & Mass Transfer - (MET302)": "https://drive.google.com/open?id=1XhhGvZl63QFlr7Umg784REqt_cFFpNOL",
       "Dynamics Of Machinery & Machine Design - (MET304)": "https://drive.google.com/open?id=18Jt9H8R5blXaCH4iFS_1f4ScmV_qWsWP",
       "Advanced Manufacturing Engineering - (MET306)": "https://drive.google.com/open?id=1sOJAvFWVCwWHiMlueesIYRItziqhgXdh",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/mechanical-engineering-year-3-syllabus.html",
+      "Elective - I": "#",
       "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
       "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
       "Comprehensive Course Work - (MET308)": "https://drive.google.com/open?id=1sduiUlHY3zAUR24AYsORTrAFymTUv9y_",
       "Computer Aided Design & Analysis Lab - (MEL332)": "https://drive.google.com/open?id=1UPIRN035LfnKL5g_1xtM1FdRHOhQ0Ly5",
       "Thermal Engineering Lab-Ii - (MEL334)": "https://drive.google.com/open?id=19J0QeMU3ywcD2-bc-MkCf9n55_MOmvRE",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/mechanical-engineering-year-3-syllabus.html"
+      "Remedial/Minor/Honors Course - (VAC) - S6": "#"
     },
-    "Semester 4": {
+    "S7": {
+      "Design Of Machine Elements - (MET401)": "#",
+      "Elective - II": "#",
+      "Elective - Open": "#",
+      "Industrial Safety Engineering - (MCN401)": "#",
+      "Mechanical Engineering Lab - (MEL411)": "#",
+      "Seminar - (MEQ413)": "#",
+      "Project Phase I - (MED415)": "#",
+      "Remedial/Minor/Honors Course - (VAC)": "#"
+    },
+    "S8": {
       "Mechatronics - (MET402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/mechanical-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/mechanical-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/mechanical-engineering-year-4-syllabus.html",
+      "Elective - III": "#",
+      "Elective - IV": "#",
+      "Elective - V": "#",
       "Comprehensive Viva Voce - (MET404)": "#",
       "Project Phase II - (MED416)": "#",
       "Remedial/Minor/Honors Course - (VAC)": "#"
     }
   },
   "Civil Engineering": {
-    "Semester 1": {
+    "S1": {
+      "Linear Algebra And Calculus - (MAT101)": "https://drive.google.com/file/d/1shDtaV3Rx8t1AcCjhMhMNNbSdtxlFDUn/view?usp=sharing",
+      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
+      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
+      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
+      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
+      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
+      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
+      "Life Skills - (HUN101)": "https://drive.google.com/file/d/1hBpNM5JYM7RJvJJOmNcaG4ZhDyHwrxwD/view?usp=sharing",
+      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
+      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
+      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
+      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
+    },
+    "S2": {
       "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
       "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
       "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
@@ -114,7 +223,19 @@
       "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
       "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
     },
-    "Semester 2": {
+    "S3": {
+      "Partial Differential Equation And Complex Analysis - (MAT201)": "https://drive.google.com/open?id=14s_qkKQvD8cWrl-fTuZ7JkRrdPPdb2qW",
+      "Mechanics Of Solids - (CET201)": "https://drive.google.com/open?id=11zko0BOY53MNuACuPlD8GlVlfMSjFJrL",
+      "Fluid Mechanics & Hydraulics - (CET203)": "https://drive.google.com/open?id=1nL3hxJgV-OP2rRkoOWaCPAmJxa-PNIX0",
+      "Surveying & Geomatics - (CET205)": "https://drive.google.com/open?id=1KzeY07F_O6CT9JMTwTrs4e1OjaNfB6b4",
+      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
+      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
+      "Sustainable Engineering - (MCN201)": "https://drive.google.com/open?id=1IIatwfzwX0L28DTsN5JmEeqrfVCEDkFj",
+      "Civil Engineering Planning & Drafting Lab - (CEL201)": "https://drive.google.com/open?id=1ATecT-KUlOmEUjQThY5OS8EwGpwdND5X",
+      "Survey Lab - (CEL203)": "https://drive.google.com/open?id=16BYvJZLmNrwcrB_uzMw9vLav3tDzsoNS",
+      "Remedial/Minor/Honors Course - (VAC) - S3": "#"
+    },
+    "S4": {
       "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
       "Engineering Geology - (CET202)": "https://drive.google.com/open?id=1pRDqPeyTx_8_FqxSZRzORjzsgqmBTwZM",
       "Geotechnical Engineering - I - (CET204)": "https://drive.google.com/open?id=1dq74IkSQZP2rXIrsLV2cY6vAQXT4v2yv",
@@ -124,31 +245,66 @@
       "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
       "Material Testing Lab - I - (CEL202)": "https://drive.google.com/open?id=1LyytfkFR8DjkkZFC7y8SuRBHqOg73dyq",
       "Fluid Mechanics Lab - (CEL204)": "https://drive.google.com/open?id=1yiLjcUDiQE-ARAX6EEqDqJxqfvt_bR9H",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/civil-engineering-year-2-syllabus.html"
+      "Remedial/Minor/Honors Course - (VAC) - S4": "#"
     },
-    "Semester 3": {
+    "S5": {
+      "Structural Analysis \u2013 I - (CET301)": "https://drive.google.com/open?id=1ivzCjcQqOZNBmTU9adFKQPkFJoYNYrnT",
+      "Design Of Concrete Structures - (CET303)": "https://drive.google.com/open?id=1Xtwt9hU0yU3zWW1LO8eF9x5YWwp12Kl5",
+      "Geotechnical Engineering \u2013 II - (CET305)": "https://drive.google.com/open?id=1HhN0iXezVJrS_GJFSZD7peN7E5uFSrev",
+      "Hydrology & Water Resources Engineering - (CET307)": "https://drive.google.com/open?id=19QrOcn7UQCl6jXr9WlpZc8LZ-YmuGruF",
+      "Construction Technology & Management - (CET309)": "https://drive.google.com/open?id=1N6H_u2iFZ2cbQqxC-xwwRwyE00Fkbq3c",
+      "Disaster Management - (MCN301)": "https://drive.google.com/open?id=1zyt6QnDBJPU_7WlP2bPwkAwkHk1tP6AS",
+      "Material Testing Lab \u2013 II - (CEL331)": "https://drive.google.com/open?id=1lHAzhQ40h3sV60V8xsIP7MOv87yXH7_P",
+      "Geotechnical Engineering Lab - (CEL333)": "https://drive.google.com/open?id=1b9jDYl-v--IxQTmgF1xnu_z4XGl_qshL",
+      "Remedial/Minor/Honors Course - (VAC) - S5": "#"
+    },
+    "S6": {
       "Structural Analysis \u2013 II - (CET302)": "https://drive.google.com/open?id=170O1B0bNzkuPcfipGlEBljqEyhdhw8sG",
       "Environmental Engineering - (CET304)": "https://drive.google.com/open?id=1WljfZAxyun6O7H4HwskNLHQ68Pq9IfBD",
       "Design Of Hydraulic Structures - (CET306)": "https://drive.google.com/open?id=1DI2q45_MY1ksJmB3aWMJR3xBBmCDWdXn",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/civil-engineering-year-3-syllabus.html",
+      "Elective - I": "#",
       "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
       "Comrehensive Course Work - (CET308)": "https://drive.google.com/open?id=1gkDcmOPCnSG5HsvUdQwK0qbXF0kaEeM5",
       "Transportation Engineering Lab - (CEL332)": "https://drive.google.com/open?id=1-k9zGqPQV_nimnd1cy_R41hQ1wwwz1Xg",
       "Civil Engineering Software Lab - (CEL334)": "https://drive.google.com/open?id=1L_J7RGJlY2jsF6Bi_kyFdZgexa7o-rZ6",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/civil-engineering-year-3-syllabus.html"
+      "Remedial/Minor/Honors Course - (VAC) - S6": "#"
     },
-    "Semester 4": {
+    "S7": {
+      "Design Of Steel Structures - (CET401)": "#",
+      "Elective - II": "#",
+      "Elective - Open": "#",
+      "Industrial Safety Engineering - (MCN401)": "#",
+      "Environmental Engg Lab - (CEL411)": "#",
+      "Seminar - (CEQ413)": "#",
+      "Project Phase I - (CED415)": "#",
+      "Remedial/Minor/Honors Course - (VAC)": "#"
+    },
+    "S8": {
       "Quantity Surveying & Valuation - (CET402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/civil-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/civil-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/civil-engineering-year-4-syllabus.html",
+      "Elective - III": "#",
+      "Elective - IV": "#",
+      "Elective - V": "#",
       "Comprehensive Viva Voce - (CET404)": "#",
       "Project Phase II - (CED416)": "#",
       "Remedial/Minor/Honors Course - (VAC)": "#"
     }
   },
-  "Electrical And Electronics Engineering": {
-    "Semester 1": {
+  "EEE": {
+    "S1": {
+      "Linear Algebra And Calculus - (MAT101)": "https://drive.google.com/file/d/1shDtaV3Rx8t1AcCjhMhMNNbSdtxlFDUn/view?usp=sharing",
+      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
+      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
+      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
+      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
+      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
+      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
+      "Life Skills - (HUN101)": "https://drive.google.com/file/d/1hBpNM5JYM7RJvJJOmNcaG4ZhDyHwrxwD/view?usp=sharing",
+      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
+      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
+      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
+      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
+    },
+    "S2": {
       "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
       "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
       "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
@@ -163,7 +319,19 @@
       "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
       "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
     },
-    "Semester 2": {
+    "S3": {
+      "Partial Differential Equation And Complex Analysis - (MAT201)": "https://drive.google.com/open?id=14s_qkKQvD8cWrl-fTuZ7JkRrdPPdb2qW",
+      "Circuits And Networks - (EET201)": "https://drive.google.com/open?id=1Q-1zBQIKf3WyLfOyt_QXE6FFVCp68erQ",
+      "Measurements And Instrumentation - (EET203)": "https://drive.google.com/open?id=1hiSA4lKyC_4cf4V6xz4D7wwScRS1s0ip",
+      "Analog Electronics - (EET205)": "https://drive.google.com/open?id=1bPsU3qEBTHrZfwiThko3WKrtwDdDtNHj",
+      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
+      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
+      "Sustainable Engineering - (MCN201)": "https://drive.google.com/open?id=1IIatwfzwX0L28DTsN5JmEeqrfVCEDkFj",
+      "Circuits And Measurements Lab - (EEL201)": "https://drive.google.com/open?id=1GmdSr-MyMrR-FXzT_Xj0fwfxk3xIrXld",
+      "Analog Electronics Lab - (EEL203)": "https://drive.google.com/open?id=1zfxJmDSDFB-W63FBqDkwc5J2FlL_x1RZ",
+      "Remedial/Minor/Honors Course - (VAC) - S3": "#"
+    },
+    "S4": {
       "Probability, Random Processes And Numerical Methods - (MAT204)": "https://drive.google.com/open?id=1vZ3roaEiAnjiF2wEZ0kzvvoio47hCFCl",
       "DC Machines And Transformers - (EET202)": "https://drive.google.com/open?id=1Cx2FJV8AqruTtQObAdipJAZCgyHxqGdx",
       "Electromagnetic Theory - (EET204)": "https://drive.google.com/open?id=1h5QA03uNCkCa9st1M1474iuXABTbRvmK",
@@ -173,32 +341,68 @@
       "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
       "Electrical Machines Lab I - (EEL202)": "https://drive.google.com/open?id=1MfVlp5K1Z5R-cnj227bHu7xL8uUuPgML",
       "Digital Electronics Lab - (EEL204)": "https://drive.google.com/open?id=19xrAL4CrzuSwYfN8JR260abOKSuznMBy",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/electrical-and-electronics-engineering.html"
+      "Remedial/Minor/Honors Course - (VAC) - S4": "#"
     },
-    "Semester 3": {
+    "S5": {
+      "Power Systems I - (EET301)": "https://drive.google.com/open?id=1axIZLkyf-nI3m8vbU7ludbWEXlrzHB4b",
+      "Microprocessors And Microcontrollers - (EET303)": "https://drive.google.com/open?id=1CFrLZLKwANzWhYmJNuSkpTIwxQq5Tl0W",
+      "Signals And Systems - (EET305)": "https://drive.google.com/open?id=1JxiaY80Kqlft40LwFmvqaAI12WBqCyAZ",
+      "Synchronous And Induction Machines - (EET307)": "https://drive.google.com/open?id=123dFWbReVpX-eH6pgMOQJeWGl5sCw9s8",
+      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
+      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
+      "Disaster Management - (MCN301)": "https://drive.google.com/open?id=1zyt6QnDBJPU_7WlP2bPwkAwkHk1tP6AS",
+      "Microprocessors And Microcontrollers Lab - (EEL331)": "https://drive.google.com/open?id=1RZGVdwNQNY8slmAbariN3irQcSO2vtrA",
+      "Electrical Machines Lab II - (EEL333)": "https://drive.google.com/open?id=1BeDnABuLCuvAzU-qclzvE4hIqwMX28Cp",
+      "Remedial/Minor/Honors Course - (VAC) - S5": "#"
+    },
+    "S6": {
       "Linear Control Systems - (EET302)": "https://drive.google.com/open?id=1vEvYpehTN2E1yHx2co9btcPKmlK2Vt5C",
       "Power Systems II - (EET304)": "https://drive.google.com/open?id=1C466iWZeox5oO937ORd4W2Vryw_iuKAU",
       "Power Electronics - (EET306)": "https://drive.google.com/open?id=14EWfdamyj81rlhF7syJGbHM9R6Ye4aph",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/electrical-and-electronics-engineering_20.html",
+      "Elective - I": "#",
       "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
       "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
       "Comrehensive Course Work - (EET308)": "https://drive.google.com/open?id=1kOTTaIN0e4yXKOFJrcDjCzgFbixEZnZe",
       "Power Systems Lab - (EEL332)": "https://drive.google.com/open?id=1Ow5islXIdJpex76_fND2EH-RUgzbMFNX",
       "Power Electronics Lab - (EEL334)": "https://drive.google.com/open?id=1j5RDaGeHgFigG5trgV3rCsBZoxijfov6",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/electrical-and-electronics-engineering_20.html"
+      "Remedial/Minor/Honors Course - (VAC) - S6": "#"
     },
-    "Semester 4": {
+    "S7": {
+      "Advanced Control Systems - (EET401)": "#",
+      "Elective - II": "#",
+      "Elective - Open": "#",
+      "Industrial Safety Engineering - (MCN401)": "#",
+      "Control Systems Lab - (EEL411)": "#",
+      "Seminar - (EEQ413)": "#",
+      "Project Phase I - (EED415)": "#",
+      "Remedial/Minor/Honors Course - (VAC)": "#"
+    },
+    "S8": {
       "Electrical System Design And Estimation - (EET402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/electrical-and-electronics-engineering_50.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/electrical-and-electronics-engineering_50.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/electrical-and-electronics-engineering_50.html",
+      "Elective - III": "#",
+      "Elective - IV": "#",
+      "Elective - V": "#",
       "Comprehensive Course Viva - (EET404)": "#",
       "Project Phase II - (EED416)": "#",
       "Remedial/Minor/Honors Course - (VAC)": "#"
     }
   },
-  "Electronics And Communication Engineering": {
-    "Semester 1": {
+  "ECE": {
+    "S1": {
+      "Linear Algebra And Calculus - (MAT101)": "https://drive.google.com/file/d/1shDtaV3Rx8t1AcCjhMhMNNbSdtxlFDUn/view?usp=sharing",
+      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
+      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
+      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
+      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
+      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
+      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
+      "Life Skills - (HUN101)": "https://drive.google.com/file/d/1hBpNM5JYM7RJvJJOmNcaG4ZhDyHwrxwD/view?usp=sharing",
+      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
+      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
+      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
+      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
+    },
+    "S2": {
       "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
       "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
       "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
@@ -213,7 +417,19 @@
       "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
       "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
     },
-    "Semester 2": {
+    "S3": {
+      "Partial Differential Equation And Complex Analysis - (MAT201)": "https://drive.google.com/open?id=14s_qkKQvD8cWrl-fTuZ7JkRrdPPdb2qW",
+      "Solid State Devices - (ECT201)": "https://drive.google.com/open?id=1RD83hLbMS_gxUu3jv6VnECczK01kyA1o",
+      "Logic Circuit Design - (ECT203)": "https://drive.google.com/open?id=1iJhUAaBL6fh6NQ5Athb2vtqRvaPq8j6N",
+      "Network Theory - (ECT205)": "https://drive.google.com/open?id=1EOfhWQlD9191wuCB1iD4Ij-BlfyIABiR",
+      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
+      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
+      "Sustainable Engineering - (MCN201)": "https://drive.google.com/open?id=1IIatwfzwX0L28DTsN5JmEeqrfVCEDkFj",
+      "Scientific Computing Lab - (ECL201)": "https://drive.google.com/open?id=1MW23Z5tVjVWIrsH8jlrzuJrf3LNmEGRq",
+      "Logic Design Lab - (ECL203)": "https://drive.google.com/open?id=1wNzrN8vY-B99sOGCcrfWwBmPJr8Lc5tM",
+      "Remedial/Minor/Honors Course - (VAC) - S3": "#"
+    },
+    "S4": {
       "Probability, Random Processes And Numerical Methods - (MAT204)": "https://drive.google.com/open?id=1vZ3roaEiAnjiF2wEZ0kzvvoio47hCFCl",
       "Analog Circuits - (ECT202)": "https://drive.google.com/open?id=1Q96zWbl0ANbCYeXqX1VODfbRW_i6UMBv",
       "Signals And Systems - (ECT204)": "https://drive.google.com/open?id=16vSZV42HK8S5kUoC1Zg34x6T4otibZxD",
@@ -223,32 +439,68 @@
       "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
       "Analog Circuits And Simulation Lab - (ECL202)": "https://drive.google.com/open?id=1cxgyO_T5UBcQ78tscDO2BqLVqnGkMh7A",
       "Microcontroller Lab - (ECL204)": "https://drive.google.com/open?id=1dEqQ7SoJ7ekaZunOVVkNhYKmMM9TvWZp",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/electronics-and-communication.html"
+      "Remedial/Minor/Honors Course - (VAC) - S4": "#"
     },
-    "Semester 3": {
+    "S5": {
+      "Linear Integrated Circuits - (ECT301)": "https://drive.google.com/open?id=11rdvh3qlk9mIhyqHteP4W0vj7A55V85X",
+      "Digital Signal Processing - (ECT303)": "https://drive.google.com/open?id=1uKvkV2AcH3HA9LOobsFjC2qxOujtG8WF",
+      "Analog And Digital Communication - (ECT305)": "https://drive.google.com/open?id=1-xVHQXYRqgRMKkSvQI5gViSmxVEGJqvy",
+      "Control Systems - (ECT307)": "https://drive.google.com/open?id=1AA1fTyPX-haa5t7mPgJyMBMUt7K6eer2",
+      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
+      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
+      "Disaster Management - (MCN301)": "https://drive.google.com/open?id=1zyt6QnDBJPU_7WlP2bPwkAwkHk1tP6AS",
+      "Analog Integrated Circuits And Simulation Lab - (ECL331)": "https://drive.google.com/open?id=1uboVPMsLgljT-gKzEGJ5-42wVdjFrabj",
+      "Digital Signal Processing Lab - (ECL333)": "https://drive.google.com/open?id=1RxNmcY3tXBbvQdbek7JEAEpPNJA1EM9K",
+      "Remedial/Minor/Honors Course - (VAC) - S5": "#"
+    },
+    "S6": {
       "Electromagnetics - (ECT302)": "https://drive.google.com/open?id=1vjhyCfVJkKDt0B8HCIgnHmlrf0BO3bQy",
       "VlSI Circuit Design - (ECT304)": "https://drive.google.com/open?id=1GJl-OhLpaYLAzijp3K_gZRZWTqQSpBX1",
       "Information Theory And Coding - (ECT306)": "https://drive.google.com/open?id=1mVSeVjHeOf_DqmpbEPAMwHpbmE4folkc",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/electronics-and-communication_20.html",
+      "Elective - I": "#",
       "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
       "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
       "Comprehensive Course Work - (ECT308)": "https://drive.google.com/open?id=1nJrO-rH0Hmuv3Y6Q3oogiaxnCVBC7wK8",
       "Communication Lab - (ECL332)": "https://drive.google.com/open?id=17IJJMMCNDdBchGrlCUtP5obi4ZPJIpjc",
       "Miniproject - (ECD334)": "https://drive.google.com/open?id=16bXgMNXD08fWXlXIS6WS296CdNMY2y6s",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/electronics-and-communication_20.html"
+      "Remedial/Minor/Honors Course - (VAC) - S6": "#"
     },
-    "Semester 4": {
+    "S7": {
+      "Wireless Communication - (ECT401)": "#",
+      "Elective - II": "#",
+      "Elective - Open": "#",
+      "Industrial Safety Engineering - (MCN401)": "#",
+      "Electromagnetics Lab - (ECL411)": "#",
+      "Seminar - (ECQ413)": "#",
+      "Project Phase I - (ECD415)": "#",
+      "Remedial/Minor/Honors Course - (VAC)": "#"
+    },
+    "S8": {
       "Instrumentation - (ECT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/electronics-and-communication_68.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/electronics-and-communication_68.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/electronics-and-communication_68.html",
+      "Elective - III": "#",
+      "Elective - IV": "#",
+      "Elective - V": "#",
       "Comprehensive Viva Voce - (ECT404)": "#",
       "Project Phase II - (ECD416)": "#",
       "Remedial/Minor/Honors Course - (VAC)": "#"
     }
   },
-  "Information Technology": {
-    "Semester 1": {
+  "IT": {
+    "S1": {
+      "Linear Algebra And Calculus - (MAT101)": "https://drive.google.com/file/d/1shDtaV3Rx8t1AcCjhMhMNNbSdtxlFDUn/view?usp=sharing",
+      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
+      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
+      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
+      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
+      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
+      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
+      "Life Skills - (HUN101)": "https://drive.google.com/file/d/1hBpNM5JYM7RJvJJOmNcaG4ZhDyHwrxwD/view?usp=sharing",
+      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
+      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
+      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
+      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
+    },
+    "S2": {
       "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
       "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
       "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
@@ -263,7 +515,19 @@
       "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
       "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
     },
-    "Semester 2": {
+    "S3": {
+      "Discrete Mathematical Structures - (MAT203)": "https://drive.google.com/open?id=1nywjqmRHya3a-U0_dPFFAZwfa40zwkGk",
+      "Data Structures - (ITT201)": "https://drive.google.com/open?id=1qGe9TXfVp8zWmrlHa8YIMWa9khgj_Za6",
+      "Digital System Design - (ITT203)": "https://drive.google.com/open?id=1VoVgUkEpxpr1QJ8894eC9LCSNb7W-mOX",
+      "Problem Solving Using Python - (ITT205)": "https://drive.google.com/open?id=1-NesL13tpRPdoBy9WmKfdWjYgGWQxKQ7",
+      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
+      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
+      "Sustainable Engineering - (MCN201)": "https://drive.google.com/open?id=1IIatwfzwX0L28DTsN5JmEeqrfVCEDkFj",
+      "Data Structures Lab - (ITL201)": "https://drive.google.com/open?id=1h93MgkQlPtKGbo5KoaIFmneFS25aELjf",
+      "Programming And System Utilities Lab - (ITL203)": "https://drive.google.com/open?id=1VbP_QO_cvWF4TQi6IUMTaTNkLtcVx48S",
+      "Remedial/Minor/Honors Course - (VAC) - S3": "#"
+    },
+    "S4": {
       "Probability, Statistics And Advanced Graph Theory - (MAT208)": "https://drive.google.com/open?id=1Ur3yBX8bPwr5a_uF0BOI6RLHGy25T9Xe",
       "Principles Of Object Oriented Techniques - (ITT202)": "https://drive.google.com/open?id=1mMOK94XqZD3vmIJo4t6SWNLNH0kjJaTU",
       "Computer Organization - (ITT204)": "https://drive.google.com/open?id=1rOwkBEyAiDrH247bDGDNy1VL4S5qme_Z",
@@ -273,976 +537,47 @@
       "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
       "Object Oriented Techniques Lab - (ITL202)": "https://drive.google.com/open?id=1dsd4mymslgxrVAkgbBWkV0oM6BXfxWNb",
       "Database Management Systems Lab - (ITL204)": "https://drive.google.com/open?id=1vxqBBmvByxkEr8EN_feYvlgOrqoHr468",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/information-technology-year-2-syllabus.html"
+      "Remedial/Minor/Honors Course - (VAC) - S4": "#"
     },
-    "Semester 3": {
+    "S5": {
+      "Web Application Development - (ITT301)": "https://drive.google.com/open?id=1g2CuBPsIKHavfCo0t_9qgvk_yQGy_no3",
+      "Operating System Concepts - (ITT303)": "https://drive.google.com/open?id=1JIFRfIZjLy-r0iLqSe_ZVruO8LOdOq2b",
+      "Data Communication And Networking - (ITT305)": "https://drive.google.com/open?id=17EmvlhlYTqF1AVy3iU_7WNVrJr13Jc4M",
+      "Formal Languages And Automata Theory - (ITT307)": "https://drive.google.com/open?id=1mDuOh6gtHwuTvucTyARph7SxwRTtcDo2",
+      "Management For Software - (ITT309)": "https://drive.google.com/open?id=1MnOBt2PlY7erCR1pKW_-3JmLO8h1Vmie",
+      "Disaster Management - (MCN301)": "https://drive.google.com/open?id=1zyt6QnDBJPU_7WlP2bPwkAwkHk1tP6AS",
+      "Operating System And Network Programming Lab - (ITL331)": "https://drive.google.com/open?id=1dtOdlGm2yZabHcTYMMWvBcMKaxE4yIxP",
+      "Web Application Development Lab - (ITL333)": "https://drive.google.com/open?id=1ZP0aSGUnOIUK_iWgX3gH6XuIVQxcSeQ9",
+      "Remedial/Minor/Honors Course - (VAC) - S5": "#"
+    },
+    "S6": {
       "Internetworking With TCP/IP - (ITT302)": "https://drive.google.com/open?id=1x-e8ZtW-j7BSSqiC_PNF64yhABrNK8Os",
       "Algorithm Analysis And Design - (ITT304)": "https://drive.google.com/open?id=1f2ao43PylIm6KC1YRaVMXWrdvxlEaZN8",
       "Data Science - (ITT306)": "https://drive.google.com/open?id=17GW80ywk-SjfW8tK6LgxxajvQkTudKDi",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/information-technology-year-3-syllabus.html",
+      "Elective - I": "#",
       "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
       "Comprehensive Course Work - (ITT308)": "https://drive.google.com/open?id=1yHVHOOcY_l7ZIrAye4n85U_XEExXsb45",
       "Computer Networks Lab - (ITL332)": "https://drive.google.com/open?id=1uCu6On_OCV_Mz-wiwp7e4ARE3wppiXoY",
       "Miniproject - (ITD334)": "https://drive.google.com/open?id=11kZ0eUrhH0lK_TWSDqvE7hf1JH1QXO4u",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/information-technology-year-3-syllabus.html"
+      "Remedial/Minor/Honors Course - (VAC) - S6": "#"
     },
-    "Semester 4": {
+    "S7": {
+      "Data Analytics - (ITT401)": "#",
+      "Elective - II": "#",
+      "Elective - Open": "#",
+      "Industrial Safety Engineering - (MCN401)": "#",
+      "Data Analytics Lab - (ITL411)": "#",
+      "Seminar - (ITQ413)": "#",
+      "Project Phase I - (ITD415)": "#",
+      "Remedial/Minor/Honors Course - (VAC)": "#"
+    },
+    "S8": {
       "Cryptography And Network Security - (ITT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/information-technology-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/information-technology-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/information-technology-year-4-syllabus.html",
+      "Elective - III": "#",
+      "Elective - IV": "#",
+      "Elective - V": "#",
       "Comprehensive Viva Voce - (ITT404)": "#",
       "Project Phase II - (ITD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Applied Electronics And Instrumentation": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Random Processes And Numerical Methods - (MAT204)": "https://drive.google.com/open?id=1vZ3roaEiAnjiF2wEZ0kzvvoio47hCFCl",
-      "Analog Circuits - (ECT202)": "https://drive.google.com/open?id=1Q96zWbl0ANbCYeXqX1VODfbRW_i6UMBv",
-      "Signals And Systems - (ECT204)": "https://drive.google.com/open?id=16vSZV42HK8S5kUoC1Zg34x6T4otibZxD",
-      "Measurements And Instrumentation - (AET206)": "https://drive.google.com/open?id=1WoEni-8gyIBmPbQAbqsW-eUNfmtFh184",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Analog Circuits And Simulation Lab - (ECL202)": "https://drive.google.com/open?id=1cxgyO_T5UBcQ78tscDO2BqLVqnGkMh7A",
-      "Transducers And Measurements Lab - (AEL204)": "https://drive.google.com/open?id=1-koem_9ssX64qW9yb-szgPamdIpil9yF",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/applied-electronics-and-instrumentation.html"
-    },
-    "Semester 3": {
-      "Digital Signal Processing - (AET302)": "https://drive.google.com/open?id=1U_HlCrKq5bVRPusDY31UW4os4YIu_94n",
-      "Process Dynamics And Control - (AET304)": "https://drive.google.com/open?id=1QtF_NZFgRGONLsiUbUV_Ya_ngpVZBNpU",
-      "Power Electronics - (AET306)": "https://drive.google.com/open?id=1RFctHq3vMyNoM_YZJoCgii96USBkP3tO",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/applied-electronics-and-instrumentation_20.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comrehensive Course Work - (AET308)": "https://drive.google.com/open?id=1KyCZ3e2pPPPj6iNrJwJPYxP2rOW5IjhS",
-      "Power Electronics Lab - (AEL332)": "https://drive.google.com/open?id=1KDTssRv-gG6LUpvJ1n4JVnR6fisUtXym",
-      "Miniproject - (AED334)": "https://drive.google.com/open?id=1o25YUt-me4lq6K-gIk3zxabLXrYtMYPq",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/applied-electronics-and-instrumentation_20.html"
-    },
-    "Semester 4": {
-      "VLSI Circuit Design - (AET402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/applied-electronics-and-instrumentation_11.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/applied-electronics-and-instrumentation_11.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/applied-electronics-and-instrumentation_11.html",
-      "Comprehensive Course Viva - (AET404)": "#",
-      "Project Phase II - (AED416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Biotechnology Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Chemical And Biological Reaction Engineering - (BTT202)": "https://drive.google.com/open?id=1sXU7HdjLBLHfWiNok3ox_wfgUgm18hKZ",
-      "Principles Of Biochemistry - (BTT204)": "https://drive.google.com/open?id=1AO_tH5PoK2WHRmilDk2dR0U8t_plpMI2",
-      "Bioprocess Engineering - (BTT206)": "https://drive.google.com/open?id=17Fsi4_UmE-PjY7-UKQKBpe03JcHbOL9w",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Biochemistry Lab - (BTL202)": "https://drive.google.com/open?id=1t8r_M97zS35VlRDz0Firp5GYM1VC32sm",
-      "Analytical Techniques In Biotechnology Lab - (BTL204)": "https://drive.google.com/open?id=153_N04JYTpt0zBZS26Ibb1rNDm_AfNUi",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/biotechnology-engineering-year-2.html"
-    },
-    "Semester 3": {
-      "Bioinformatics - (BTT302)": "https://drive.google.com/open?id=1qcEP5-oaorDWmcxkVIfk0YesM0OsekZz",
-      "Downstream Processing - (BTT304)": "https://drive.google.com/open?id=1DxCT2x2SsSTNO1rpx2p8RNLcwoNp5OpH",
-      "Bioreactor Control And Instrumentation - (BTT306)": "https://drive.google.com/open?id=15Bd4jaWJSa6gdPSwH5Ot5aHwcmZf7raf",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/biotechnology-engineering-year-3.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comrehensive Course Work - (BTT308)": "https://drive.google.com/open?id=1ddjAsm-DNBO0BOnc3JefbB1XMyMJeoC2",
-      "Downstream Processing Lab - (BTL332)": "https://drive.google.com/open?id=1cnqQOK6QCzUIeOo-kA7IVTyI9ByQDIFT",
-      "Heat And Mass Transfer Lab - (BTL334)": "https://drive.google.com/open?id=1Bh4Ioa3ytZE6ERaZ9wTssdIjT6WHyp-J",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/biotechnology-engineering-year-3.html"
-    },
-    "Semester 4": {
-      "Environmental Biotechnology - (BTT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/biotechnology-engineering-year-4.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/biotechnology-engineering-year-4.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/biotechnology-engineering-year-4.html",
-      "Comprehensive Course Viva - (BTT404)": "#",
-      "Project Phase II - (BTD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Biomedical Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Microcontrollers & Interfacing - (BMT202)": "https://drive.google.com/open?id=1Wdp4MqXffIjBfvKiFGXH2hJG40l3cT2o",
-      "Electrical & Electronic Instrumentation - (BMT204)": "https://drive.google.com/open?id=1SkbjRc0CcHQHOp7m9VIo_zbr1OBY3gti",
-      "Biophysics - (BMT206)": "https://drive.google.com/open?id=1vYdgbUWInAy4a2DIwlG3kR_EhKYrqa03",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Microcontrollers & Interfacing Lab - (BML202)": "https://drive.google.com/open?id=1p2-7UsXS_H8CGY4KEFN6Xotl_-sKHvBi",
-      "Biomedical Electronics Lab - (BML204)": "https://drive.google.com/open?id=14DoPs2GItOKTMbsi6Rjw9-Ne96RwSFWX",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/biomedical-engineering-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "Biomechanics - (BMT302)": "https://drive.google.com/open?id=1gZTn1RFS0xAJmo7PPSn5vIAZToVL5pCt",
-      "Therapeutic Equipments - (BMT304)": "https://drive.google.com/open?id=1I8IMVyXNOPOuJudMdeluokLPNCuatNk7",
-      "Principles Of Medical Imaging - (BMT306)": "https://drive.google.com/open?id=1-aIIPhYi3paFGs7shdw4Lz4Dsyvrh9pb",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/biomedical-engineering-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (BMT308)": "https://drive.google.com/open?id=1h7kjS1kF5SzX2U8a33DwKXBT6KhG6oNg",
-      "Biomedical Equipment Dissection Lab - (BML332)": "https://drive.google.com/open?id=17jPB1OEDNZADzmX-alt_Hm4-KUE-pVX3",
-      "Mini Project - (BMD334)": "https://drive.google.com/open?id=1-FfHvc-qhsUM68Od1_xQ39lfvpPPQ335",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/biomedical-engineering-year-3-syllabus.html"
-    },
-    "Semester 4": {
-      "Biomaterials - (BMT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/biomedical-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/biomedical-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/biomedical-engineering-year-4-syllabus.html",
-      "Comprehensive Course Viva - (BMT404)": "#",
-      "Project Phase II - (BMD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Instrumentation & Control Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Measurements And Instrumentation - (ICT202)": "https://drive.google.com/open?id=1zv-CJxHQQVCYoiuuX0GBdAQreyi9wyYg",
-      "Integrated Circuits And Systems - (ICT204)": "https://drive.google.com/open?id=1sydLlg7PHqR-gAbsUeaTo-U8JmsuZs3e",
-      "Control Engineering I - (ICT206)": "https://drive.google.com/open?id=1wxM8nEOhGkvABaHxUZeihmHVgJr6nWYP",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Transducers And Measurements Lab - (ICL202)": "https://drive.google.com/open?id=1njySxrh2QjzFma7_BsEAJshDI9WBvgbF",
-      "Analog Circuits Lab - (ICL204)": "https://drive.google.com/open?id=1B6pojQdinJYoOmsSzRDFhzkgtp447Ji8",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/instrumentation-control-engineering.html"
-    },
-    "Semester 3": {
-      "Industrial Instrumentation 2 - (ICT302)": "https://drive.google.com/open?id=1cUx-GyQaKn3sWo2BdIMgSO21uRQCm3Bm",
-      "Process Control - (ICT304)": "https://drive.google.com/open?id=1i3tx-XL3V70-KQfSDXleLHnPvevTGTcb",
-      "Discrete-Time Signal Processing - (ICT306)": "https://drive.google.com/open?id=1wV_NEQCYgl2YhCutin6LubsEUg67jfNV",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/instrumentation-control-engineering_20.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comrehensive Course Work - (ICT308)": "https://drive.google.com/open?id=1zzvMXIk_Hhkkc8B1G1DjszgMrjeH3ArE",
-      "Industrial Instrumentation Lab - (ICL332)": "https://drive.google.com/open?id=1-peOHwjctoIVFJ-tVfonYBzhOUhpbKII",
-      "Miniproject - (ICD334)": "https://drive.google.com/open?id=1n03l5kI5SIlyKCXgPGZsaPmoQUiZf7m2",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/instrumentation-control-engineering_20.html"
-    },
-    "Semester 4": {
-      "Instrumentation System Design - (ICT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/instrumentation-control-engineering_85.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/instrumentation-control-engineering_85.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/instrumentation-control-engineering_85.html",
-      "Comprehensive Course Viva - (ICT404)": "#",
-      "Project Phase II - (ICD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Aeronautical Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Thermodynamics - (AOT202)": "https://drive.google.com/open?id=1W67VT612PTt7ivopm92O5nDohbqYHA4T",
-      "Aerodynamics I - (AOT204)": "https://drive.google.com/open?id=19zDSIVfG9dqvNXlcb2aDr8mf94aJMHCg",
-      "Aircraft Structures I - (AOT206)": "https://drive.google.com/open?id=1tAHxYD1X7yJxGVwFl82ZvpE6ePSOr7Z-",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Aerodynamics And Flight Mechanics Lab - (AOL202)": "https://drive.google.com/open?id=1oa_Ii4CpeatvEGBcm8VzvEFlAbwRckuk",
-      "CAD Lab - (AOL204)": "https://drive.google.com/open?id=1IXsYE5zMsEeAQQ3WwNSqP_6eDi8zmtUy",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/aeronautical-engineering-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "Heat Transfer - (AOT302)": "https://drive.google.com/open?id=1fcKI6chiKarzyiXjui1SRfx3YYrL2nz4",
-      "Vibration And Aero Elasticity - (AOT304)": "https://drive.google.com/open?id=1SXynqHBOB9gOMPiQxKlsWOLmBRn_lwL4",
-      "Non - Airbreathing Propulsion - (AOT306)": "https://drive.google.com/open?id=1tHJ5IiuV7LxIGMYmPChzbQhxjO-WbK3B",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/aeronautical-engineering-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (AOT308)": "https://drive.google.com/open?id=1f7WXjVZHKmz7Ane3VEyfJSTu8GzGjp80",
-      "Airframe Production And Maintenace Lab - (AOL332)": "https://drive.google.com/open?id=1cmQTbT6oAVtYRF6pQfAXgaFYWEH0XPeV",
-      "Miniproject - (AOD334)": "https://drive.google.com/open?id=1IKvvApSHSrHb6auZMDFqZH0MjfPML3FS",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/aeronautical-engineering-year-3-syllabus.html"
-    },
-    "Semester 4": {
-      "Rocketry And Space Mechanics - (AOT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/aeronautical-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/aeronautical-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/aeronautical-engineering-year-4-syllabus.html",
-      "Comprehensive Viva Voce - (AOT404)": "#",
-      "Project Phase II - (AOD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Automobile Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Fluid Mechanics And Machinery - (AUT202)": "https://drive.google.com/open?id=1gNWt8c0lNKG_dLCza9ohGVe_0t5azXOs",
-      "Auto Power Plant - (AUT204)": "https://drive.google.com/open?id=1b7vl8nyNm1HUOif-cEYv_8MrWg4R4Y2p",
-      "Automotive Transmission - (AUT206)": "https://drive.google.com/open?id=1xlQ35lv-2yF-Q3PhIqDgm_Plwn9nnNLh",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Fm & Hm Lab - (MEL202)": "https://drive.google.com/open?id=1n3uQ1rMpl2xtrm2cwcYTna_EEyek0MbB",
-      "Automobile Lab II - (AUL202)": "https://drive.google.com/open?id=1CF3yxC5_APsRdp6J7C7z266gfjfLcsvp",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/automobile-engineering-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "Heat & Mass Transfer - (MET302)": "https://drive.google.com/open?id=1XhhGvZl63QFlr7Umg784REqt_cFFpNOL",
-      "Automotive Electrical And Electronics - (AUT304)": "https://drive.google.com/open?id=1NotuVa5sPZZUFo-e3ZqH2Lk7fphSpwvH",
-      "Automotive Components Design - (AUT306)": "https://drive.google.com/open?id=1AU4Szjfyi3LEirOhirUlPd5XKEgcLSX3",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/automobile-engineering-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comrehensive Course Work - (AUT308)": "https://drive.google.com/open?id=198921-Qwe9ypQ-prx9j98MZnYJ5toxln",
-      "Computer Aided Design & Analysis Lab - (MEL332)": "https://drive.google.com/open?id=1UPIRN035LfnKL5g_1xtM1FdRHOhQ0Ly5",
-      "Automobile Lab III - (AUL334)": "https://drive.google.com/open?id=1fOFivOSCdKWn2wci0a9YhFe0WfTD-tEa",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/automobile-engineering-year-3-syllabus.html"
-    },
-    "Semester 4": {
-      "Vehicle Dynamics - (AUT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/automobile-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/automobile-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/automobile-engineering-year-4-syllabus.html",
-      "Comprehensive Course Viva - (AUT404)": "#",
-      "Project Phase II - (AUD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Chemical Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Engineering Mathematics - (MAT)": "#",
-      "Chemical Engineering Thermodynamics - (CHT202)": "https://drive.google.com/open?id=1uW2C8Fkn0xLrGbaIygK2fOObtxYfF5kN",
-      "Heat Transfer Operations - (CHT204)": "https://drive.google.com/open?id=1VyWwIG4GP79LAwLGVU42ge8YHjzxBPr-",
-      "Particle Technology - (CHT206)": "https://drive.google.com/open?id=1qtvJ4pW_0-_EkcavLR5vuQVn0KhqYr7m",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Fluid And Particle Mechanics Lab - (CHL202)": "https://drive.google.com/open?id=1B0-DvFcN0IcdAb85gJx7LYbjabzzzeXa",
-      "Particle Technology Lab - (CHL204)": "https://drive.google.com/open?id=1SiSkUAgsq4HxhzEoVHll0bYBSAMDspHJ",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/chemical-engineering-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "Mass Transfer Operations-II - (CHT302)": "https://drive.google.com/open?id=1rKbNzDGRyv_iCBQdhDGArw9BJPYa_uJK",
-      "Transport Phenomena - (CHT304)": "https://drive.google.com/open?id=1kxeEwuVc9ZC0Dx7phrTdBuRVdjTPffkE",
-      "Chemical Technology - (CHT306)": "https://drive.google.com/open?id=1q5MqtDIBJQuEQ7X-875Qfy9IpRFNXeH4",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/chemical-engineering-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (CHT308)": "https://drive.google.com/open?id=1BzmfIDSIumhcBdIicq0zZhOMD6s5St0c",
-      "Mass Transfer Operations Lab - (CHL332)": "https://drive.google.com/open?id=1PSPXhKhdnBlljFcu81164ld5541pv3As",
-      "Chemical Reaction Engineering Lab - (CHL334)": "https://drive.google.com/open?id=1fBAM2UcKQqs0um5aX3JiAa0IgxLAQRL0",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/chemical-engineering-year-3-syllabus.html"
-    },
-    "Semester 4": {
-      "Chemical Process Equipment Design II - (CHT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/chemical-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/chemical-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/chemical-engineering-year-4-syllabus.html",
-      "Comprehensive Course Viva - (CHT404)": "#",
-      "Project Phase II - (CHD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Electronics And Biomedical Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Random Processes And Numerical Methods - (MAT204)": "https://drive.google.com/open?id=1vZ3roaEiAnjiF2wEZ0kzvvoio47hCFCl",
-      "Biomedical Signals & Transducers - (EBT202)": "https://drive.google.com/open?id=1NbT82GMvaQqJTGZFp1cBmX92qtlLP7e9",
-      "Linear Integrated Circuits - (EBT204)": "https://drive.google.com/open?id=1OZQaBgS9qpxedJWEGFtdm0s47V5xnHl9",
-      "Microcontrollers & Applications - (EBT206)": "https://drive.google.com/open?id=1nF_vDgl3u32EoiyDhwjYRvFrJmn558U5",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Linear Integrated Circuits Lab - (EBL202)": "https://drive.google.com/open?id=10ZP9dIcIYMds0WL_l5Zp_4Xwd1y8G49t",
-      "Microcontrollers & Applications Lab - (EBL204)": "https://drive.google.com/open?id=1KCQtsEpblfRL_JbUqvn0PGVHo7f0TwFf",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/electronics-and-biomedical-engineering_22.html"
-    },
-    "Semester 3": {
-      "Medical Image Processing - (EBT302)": "https://drive.google.com/open?id=1ieV5CCPYvLEqrmy7OD_zJCz1JlkF9lkP",
-      "Therapeutic Equipments - (EBT304)": "https://drive.google.com/open?id=16ySPdLz_4RfAqxQFL-tygjquUYUNlf24",
-      "Artificial Neural Networks & Applications - (EBT306)": "https://drive.google.com/open?id=1uUNtSobX1l5ytQw6_DKsv7WAn-D0z9ZE",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/electronics-and-biomedical-engineering_82.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (EBT308)": "https://drive.google.com/open?id=1WmoXAAaqUkJ9NcFTkU2Rh8KvIFTxRYQo",
-      "Bioengineering Lab - (EBL332)": "https://drive.google.com/open?id=1GAM2NzKE0TtG6miCm5Uu0cYxKU0GkS_k",
-      "Miniproject - (EBD334)": "https://drive.google.com/open?id=13jDV9f_nRA4cg7OBcABCcHlPGY6kPYR-",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/electronics-and-biomedical-engineering_82.html"
-    },
-    "Semester 4": {
-      "Biomechanics & Design Of Prosthetic Devices - (EBT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/electronics-and-biomedical-engineering_74.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/electronics-and-biomedical-engineering_74.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/electronics-and-biomedical-engineering_74.html",
-      "Comprehensive Course Viva - (EBT404)": "#",
-      "Project Phase II - (EBD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Food Technology": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Fundamentals Of Heat And Mass Transfer - (FTT202)": "https://drive.google.com/open?id=1nJxpKp-m3E2B--ju-3Supt3_zAlQYVsf",
-      "Engineering Properties Of Food Materials - (FTT204)": "https://drive.google.com/open?id=1bSBfnqoKNrVp6q8eUjRT1xP1TWyntVqd",
-      "Food Engineering Thermodynamics And Reaction Kinetics - (FTT206)": "https://drive.google.com/open?id=1lXXd8rndNgAzwLlmK6_E7oM8jm7-GDv9",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Food Microbiology Lab II - (FTL202)": "https://drive.google.com/open?id=1SDshc2X1djdQDmljGDUvKjZd9KAkT3Mm",
-      "Engineering Properties Of Food Materials Lab - (FTL204)": "https://drive.google.com/open?id=1nAtaTR7VKXxYeOf8zD9mkyPHFmpydMXc",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/food-technology-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "Dairy Technology - (FTT302)": "https://drive.google.com/open?id=1BB5ngb-8es79521Tlr0NgFBKqRHvs5s0",
-      "Food Process Equipment And Design - (FTT304)": "https://drive.google.com/open?id=1b2iCyV1EzisIkyEy8p79RBdhOlglZoQd",
-      "Food Additives And Flavourings - (FTT306)": "https://drive.google.com/open?id=1bDqhIrN0T-igo9sWMn9bMoB-GwHM71H3",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/food-technology-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (FTT308)": "https://drive.google.com/open?id=1VAW2Wb5iz2TJ7ob7R6mjo-VrwdIfG_q5",
-      "Food Processing Lab - (FTL332)": "https://drive.google.com/open?id=1gZJ_9-0oFDLuZtGh4XoQnOzsJtU6olyj",
-      "Miniproject - (FTD334)": "https://drive.google.com/open?id=1oC3-xeDmfHn18NnfMpluJ3qD-AyLwWvp",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/food-technology-year-3-syllabus.html"
-    },
-    "Semester 4": {
-      "Food Plant Layout And Design - (FTT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/food-technology-year-4-syllabus-2019_22.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/food-technology-year-4-syllabus-2019_22.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/food-technology-year-4-syllabus-2019_22.html",
-      "Comprehensive Course Viva - (FTT404)": "#",
-      "Project Phase II - (FTD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Industrial Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Introduction To Stochastic Models - (MAT212)": "https://drive.google.com/open?id=1yhTiwGTzFFCo78GCS1rOEDvsWXL0Xi9b",
-      "Work System Design - (IET202)": "https://drive.google.com/open?id=1HSuwC_TCoKXzc_86VhuF_1p-P125CRkc",
-      "Operations Management - (IET204)": "https://drive.google.com/open?id=1sBqtN4RvvAu-qhgZQ_EXTeMvH6TEPekm",
-      "Machine Tools And Digital Manufacturing - (IET206)": "https://drive.google.com/open?id=1Y9OW8wNgpeVnBeWVsjnUfJBm6jUDVoXe",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Work System Design Lab - (IEL202)": "https://drive.google.com/open?id=1o5cas4tcZo4w68qZrrT8g1vLK-cjThqm",
-      "Machine Tools Lab - (IEL204)": "https://drive.google.com/open?id=1mpbrNXoOlSTdVnQLHUxDNaA46pCF16ne",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/industrial-engineering-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "System Modelling And Simulation - (IET302)": "https://drive.google.com/open?id=1wTfLxZKpuSeqje4owBwljNZA_2enBwAv",
-      "Advanced Operations Research - (IET304)": "https://drive.google.com/open?id=16ELdrdEqF97v5epOfeoilwlExmRKxgP3",
-      "Data Analysis - (IET306)": "https://drive.google.com/open?id=1u52OMtnODNqJhHNa5u-_11ZlfPmjAPTH",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/industrial-engineering-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (IET308)": "https://drive.google.com/open?id=1xGEEULnUDuonfL5eCBo_hizm5tG7ZgIJ",
-      "Simulation Lab - (IEL332)": "https://drive.google.com/open?id=1N0Bz19FQvF0pB5CmusXgwTTnBsDJc4J2",
-      "Data Analysis And Optimisation Lab - (IEL334)": "https://drive.google.com/open?id=17IAByt0w47hgQ-ydmSyrqDsk_CT4vvd2",
-      "Remedial/Minor/Honors Course - (VAC) - S6": "http://www.ktuqbank.com/2020/07/industrial-engineering-year-3-syllabus.html"
-    },
-    "Semester 4": {
-      "MCDMT, - (IET402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/industrial-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/industrial-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/industrial-engineering-year-4-syllabus.html",
-      "Comprehensive Viva Voce - (IET404)": "#",
-      "Project Phase 2 - (IED416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Mechanical (Automobile) Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Engineering Thermodynamics - (MET202)": "https://drive.google.com/open?id=1dXJPL1QNcKCOvw2H_qrcWHPJ7L2OWSej",
-      "Auto Power Plant - (MUT204)": "https://drive.google.com/open?id=1PlBbQC8Aei4Szi82FG1jMZRkSmwlzUdy",
-      "Mechanics Of Solids - (MUT206)": "https://drive.google.com/open?id=12RCPMqzDQBNaM82oxi8Gjuf90orsyEd8",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Materials Testing Lab - (MUL202)": "https://drive.google.com/open?id=1Bn0jGQqA908ztKJYchNOG5lbZYNEGRqD",
-      "Vehicle Systems Lab - (MUL204)": "https://drive.google.com/open?id=1rnsxghA07xbvkW32OnHKb_mJjmzpTB7-",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/mechanical-automobile-engineering-year.html"
-    },
-    "Semester 3": {
-      "Mechanics Of Machinery - (AUT302)": "https://drive.google.com/open?id=1obKuRyqNzpBgHqhkcTYEOT4j9jzAh7di",
-      "Advanced IC Engines - (MUT304)": "https://drive.google.com/open?id=1D-NtjlIuOzwd5XMV58NI9ZlBw4426zlX",
-      "Auto Component Design - (MUT306)": "https://drive.google.com/open?id=1td-ST7nvxistigWlspdsO4K9rLq_EUde",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/mechanical-automobile-engineering-year_22.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comrehensive Course Work - (MUT308)": "https://drive.google.com/open?id=1aHqwE9Kl8HT1JDfH560gPS4KUJJ7-h8q",
-      "Computer Aided Design & Analysis Lab - (MEL332)": "https://drive.google.com/open?id=1UPIRN035LfnKL5g_1xtM1FdRHOhQ0Ly5",
-      "Electrical Systems Lab - (MUL332)": "https://drive.google.com/open?id=16dQ1-uC25_s_XlDjqU8L8QKoTAJ73XF3",
-      "Remedial/Minor/Honours Course - (VAC)": "#"
-    },
-    "Semester 4": {
-      "Hybrid And Electric Vehicles - (MUT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/mechanical-automobile-engineering-year_67.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/mechanical-automobile-engineering-year_67.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/mechanical-automobile-engineering-year_67.html",
-      "Comprehensive Course Viva - (MUT404)": "#",
-      "Project Phase II - (MUD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Mechanical Production Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Mechanical Technology - (MPT202)": "https://drive.google.com/open?id=1YTG3I9uZL4ghslSOPOx8M0a7vTfssfX8",
-      "Manufacturing Process - (MET204)": "https://drive.google.com/open?id=1TE-zQzd-gpt2_pGlsapYt0cYFPxvmGM0",
-      "Machine Tool Technology - (MPT206)": "https://drive.google.com/open?id=1CplSIcIH8Ng2iunGYSpDin2IKy8bVQDi",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Fm & Hm Lab - (MEL202)": "https://drive.google.com/open?id=1n3uQ1rMpl2xtrm2cwcYTna_EEyek0MbB",
-      "Production Tooling Lab -I - (MPL204)": "https://drive.google.com/open?id=1kFujOIg7FsBqbQ7CMPHx7fr4Zi2z8BST",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/mechanical-production-engineering-year.html"
-    },
-    "Semester 3": {
-      "Advanced Materials And Manufacturing Systems - (MPT302)": "#",
-      "Productions And Operations Management - (MPT304)": "#",
-      "Dynamics Of Machinery - (MPT306)": "#",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/mechanical-production-engineering-year_22.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (MPT308)": "#",
-      "Computer Aided Design & Analysis Lab - (MEL332)": "https://drive.google.com/open?id=1UPIRN035LfnKL5g_1xtM1FdRHOhQ0Ly5",
-      "Production Engineering Lab - (MPL334)": "#",
-      "Remedial/Minor/Honours Course - (VAC)": "#"
-    },
-    "Semester 4": {
-      "Mechatronics - (MET402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/mechanical-production-engineering-year_99.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/mechanical-production-engineering-year_99.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/mechanical-production-engineering-year_99.html",
-      "Comprehensive Course Viva - (MPT404)": "#",
-      "Project Phase II - (MPD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Mechatronics": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Thermodynamics - (MRT202)": "https://drive.google.com/open?id=1TuCHU5XJBVEmA3xJpSAJAbmYa6Q5FC21",
-      "Sensors And Actuators - (MRT204)": "https://drive.google.com/open?id=1GOF1y84vzaZnqEuPLzj7BJdHDi4WvYia",
-      "Microprocessor & Embedded Systems - (MRT206)": "https://drive.google.com/open?id=1gzdQ4r6Gp02hlv2B5IyOw_qTsyRA2RFB",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Mechanical Engineering Lab - (MRL202)": "https://drive.google.com/open?id=1qNy7bbWhKkKDRRSdevml0eZi58zO7vCo",
-      "Microprocessor & Embedded System Lab - (MRL204)": "https://drive.google.com/open?id=11sRrcMFx2WKFzA34ThAAQnMIeovFMMCv",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/mechatronics-year-2-syllabus-2019-batch.html"
-    },
-    "Semester 3": {
-      "Robotics & Automation - (MRT302)": "#",
-      "Digital Image Processing & Machine Vision - (MRT304)": "#",
-      "Industrial Hydraulics & Pneumatics - (MRT306)": "#",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/mechatronics-year-3-syllabus-2019-batch.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comrehensive Course Work - (MRT308)": "#",
-      "Mechatronic Systems Lab - (MRL332)": "#",
-      "Miniproject - (MRD334)": "#",
-      "Remedial/Minor/Honours Course - (VAC)": "#"
-    },
-    "Semester 4": {
-      "Autotronics - (MRT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/mechatronics-year-4-syllabus-2019-batch.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/mechatronics-year-4-syllabus-2019-batch.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/mechatronics-year-4-syllabus-2019-batch.html",
-      "Comprehensive Course Viva - (MRT404)": "#",
-      "Project Phase II - (MRD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Metallurgical & Materials Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Heat Treatment Of Materials - (MTT202)": "https://drive.google.com/open?id=1t1q62XI7zd3HrpJDAI2RsjowjVuYEtkg",
-      "Transport Phenomena - (MTT204)": "https://drive.google.com/open?id=13LPqMwsG5GbzrkwUZQLJSmkLMwhgJ0Hs",
-      "Mechanical Behavior Of Materials - (MTT206)": "https://drive.google.com/open?id=1eJRiP4jf8KRNN1Zo3Usg_Qxd-kDY2tLE",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Heat Treatment Lab - (MTL202)": "https://drive.google.com/open?id=1VSOnt6gm7l2p5tgXMil1QAHCZxHZShr7",
-      "Materials Testing Lab - (MTL204)": "https://drive.google.com/open?id=1rZZ5QK_W_KGPAXkHsId2yzbObqQs89gf",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/metallurgical-materials-engineering.html"
-    },
-    "Semester 3": {
-      "Corrosion Engineering - (MTT302)": "#",
-      "Deformation Processing - (MTT304)": "#",
-      "Materials Characterization - (MTT306)": "#",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/metallurgical-materials-engineering_22.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comrehensive Course Work - (MTT308)": "#",
-      "Corrosion Engineering Lab - (MTL332)": "#",
-      "Software Lab - (MTL334)": "#",
-      "Remedial/Minor/Honours Course - (VAC)": "#"
-    },
-    "Semester 4": {
-      "Ceramics, Polymers And Composite Materials - (MTT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/metallurgical-materials-engineering_57.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/metallurgical-materials-engineering_57.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/metallurgical-materials-engineering_57.html",
-      "Comprehensive Course Viva - (MTT404)": "#",
-      "Project Phase II - (MTD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Naval Architecture & Ship building": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Resistance And Propulsion Of Ships - (SBT202)": "https://drive.google.com/open?id=1IxWaaZGPA6mjLLfijTJ4B0mAH2qZPBXo",
-      "Stability Of Ships And Submarines - (SBT204)": "https://drive.google.com/open?id=10WBODzZsS3mkgT-L9vYiQuenySJKQfPd",
-      "Analysis Of Structures - (SBT206)": "https://drive.google.com/open?id=1ZW5kHgku3-zRIAFX310AbGuX_TRA2-L1",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Ship Design Lab - (SBL202)": "https://drive.google.com/open?id=1lOVxezxIUbIWiHHDLap0w49yuJKp1FyM",
-      "Measurements Lab - (SBL204)": "https://drive.google.com/open?id=19LoetPgvfnaZuWYPTMI9Sz33QE3m_IXc",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/naval-architecture-ship-building-year-2.html"
-    },
-    "Semester 3": {
-      "Ship Design \u2013 I - (SBT302)": "#",
-      "Strength Of Ships - II - (SBT304)": "#",
-      "Marine Engineering - (SBT306)": "#",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/naval-architecture-ship-building-year-3.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comrehensive Course Work - (SBT308)": "#",
-      "CAD/CAM Lab - (SBL332)": "#",
-      "Electrical Engineering Lab - (SBL334)": "#",
-      "Remedial/Minor/Honours Course - (VAC)": "#"
-    },
-    "Semester 4": {
-      "Offshore Structures - (SBT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/naval-architecture-ship-building-year-4.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/naval-architecture-ship-building-year-4.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/naval-architecture-ship-building-year-4.html",
-      "Comprehensive Course Viva - (SBT404)": "#",
-      "Project Phase II - (SBD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Polymer Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Chemical Engineering Thermodynamics - (CHT202)": "https://drive.google.com/open?id=1uW2C8Fkn0xLrGbaIygK2fOObtxYfF5kN",
-      "Polymer Physics - (POT202)": "https://drive.google.com/open?id=1Mfu_nevaP8---Uy2e3xV_qwnP7fMTaaD",
-      "Latex Technology - (POT204)": "https://drive.google.com/open?id=11A3Fg65hOpfTRa-nazUA5F02ePAJz1Eu",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Specification Test Lab - (POL202)": "https://drive.google.com/open?id=1ICCBdMk3lCObiBCTAkRITN3wj-bALuTq",
-      "Polymer Preparation And Analysis Lab - (POL204)": "https://drive.google.com/open?id=1ra57U8aEMtN0Fg32IBEHV-i1O6Yzt6nz",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/polymer-engineering-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "Polymer Machinery And Product Manufacturing - (POT302)": "#",
-      "Tyre Technology - (POT304)": "#",
-      "Paints And Surface Coatings - (POT306)": "#",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/polymer-engineering-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (POT308)": "#",
-      "Product Manufacturing Lab - (POL332)": "#",
-      "Mini Project - (POD334)": "#",
-      "Remedial/Minor/Honours Course - (VAC)": "#"
-    },
-    "Semester 4": {
-      "Polymer Products - Design And Testing - (POT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/polymer-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/polymer-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/polymer-engineering-year-4-syllabus.html",
-      "Comprehensive Course Viva - (POT404)": "#",
-      "Project Phase II - (POD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Production Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Electrical Drives And Automation - (EET212)": "https://drive.google.com/open?id=1H_TsMuIEMjGImSaO_YS4Kd4MBmGJgfT_",
-      "Thermodynamics And Heat Transfer - (PET204)": "https://drive.google.com/open?id=1j-vK_sge1-j1rc6_lbQ05HB4ytyVctgW",
-      "Mechanism And Machines Theory - (PET206)": "https://drive.google.com/open?id=1eezHyRHgWZ9o9akYbXDWwB3HUGVtbNUO",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Electrical And Electronics Lab - (EEL212)": "https://drive.google.com/open?id=1NvT5u_mIxMrpeE-HwVO7kQnrMZMioUx8",
-      "Mechanical Engineering Lab - (PEL204)": "https://drive.google.com/open?id=1EJbyf_SuNhgUPpMNOH0NNrrK7h1FfozX",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/production-engineering-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "Plasticity And Metal Forming - (PET302)": "#",
-      "Metrology And Instrumentation - (PET304)": "#",
-      "Industrial Robotics - (PET306)": "#",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/production-engineering-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (PET308)": "#",
-      "Manufacturing Process And Simulation Lab - (PEL332)": "#",
-      "Metrology Lab - (PEL334)": "#",
-      "Remedial/Minor/Honours Course - (VAC)": "#"
-    },
-    "Semester 4": {
-      "Operations Management - (PET402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/production-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/production-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/production-engineering-year-4-syllabus.html",
-      "Comprehensive Viva Voce - (PET404)": "#",
-      "Project Phase Ii - (PED416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Robotics & Automation": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Kinematics And Dynamics Of Mechanisms - (RAT202)": "https://drive.google.com/open?id=1xqvtcjlayVdgJwIPXfi2ROEm-NhALN0t",
-      "Manufacturing Processes - (RAT204)": "https://drive.google.com/open?id=10GY6v9q51CsbNJ3cmJ3qfuJ07EeRophv",
-      "Microcontrollers And Embedded Systems - (RAT206)": "https://drive.google.com/open?id=15__QPbOij4-1YWXOpyqTUFMwXti8pLNR",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Manufacturing And Prototyping Lab - (RAL202)": "https://drive.google.com/open?id=1rbdifxf3ha1YvvNUV4ag9UFpjDtlp9wo",
-      "Microcontrollers And Embedded Systems Lab - (RAL204)": "https://drive.google.com/open?id=12xTjcyR6BwnFj8gFdcIllLoleUjtjGI4",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/robotics-automation-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "Design Of Machine Elements - (RAT302)": "#",
-      "Electric Drives And Control - (RAT304)": "#",
-      "Signals And Systems - (RAT306)": "#",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/robotics-automation-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comrehensive Course Work - (RAT308)": "#",
-      "Robotics Lab - (RAL332)": "#",
-      "Miniproject/Core Lab - (RAD334)": "#",
-      "Remedial/Minor/Honours Course - (VAC)": "#"
-    },
-    "Semester 4": {
-      "AI And Machine Learning - (RAT402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/robotics-automation-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/robotics-automation-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/robotics-automation-year-4-syllabus.html",
-      "Comprehensive Course Viva - (RAT404)": "#",
-      "Project Phase II - (RAD416)": "#",
-      "Remedial/Minor/Honors Course - (VAC)": "#"
-    }
-  },
-  "Safety & Fire Engineering": {
-    "Semester 1": {
-      "Vector Calculus, Differential Equations And Transforms - (MAT102)": "https://drive.google.com/file/d/1jyYd5_RWIpL9_b2jqUgjo08M3oy9jzTo/view?usp=sharing",
-      "Engineering Physics A - (PHT100)": "https://drive.google.com/file/d/10yYYiWtRxMxFjM7cMzUtJ9utfWUAH6MP/view?usp=sharing",
-      "Engineering Chemistry - (CYT100)": "https://drive.google.com/file/d/1JPU0IJXQq1pym96XZhpf2Tdp_Xd6is6X/view?usp=sharing",
-      "Engineering Mechanics - (EST100)": "https://drive.google.com/file/d/1geZeV7zHpF3aoQDFA54xxleEXUkgBjHc/view?usp=sharing",
-      "Engineering Graphics - (EST110)": "https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=sharing",
-      "Basics Of Civil & Mechanical Engineering - (EST120)": "https://drive.google.com/file/d/1VA8B4i7BObbojGx__wljDRRbTah6Viub/view?usp=sharing",
-      "Basics Of Electrical & Electronics Engineering - (EST130)": "https://drive.google.com/file/d/1Khbv9sWX7vZh0IBKXw5OxrKnJMh-WqtZ/view?usp=sharing",
-      "Professional Communication - (HUN102)": "https://drive.google.com/file/d/1JECsExHC4WcCa-qKA0Hbc8hJUJwDjV90/view?usp=sharing",
-      "Programming In C - (EST102)": "https://drive.google.com/file/d/1u1QJeuVn5LkhuxvZ_5L3Yl_2xaT3t2V8/view?usp=sharing",
-      "Engineering Physics Lab - (PHL120)": "https://drive.google.com/file/d/1xCG_8IPFUjaXz-O6MbnMcT9MARf6PWkc/view?usp=sharing",
-      "Engineering Chemistry Lab - (CYL120)": "https://drive.google.com/file/d/1drDU5SKGi_-0OCU1217BsEibuPfpx1GJ/view?usp=sharing",
-      "Civil & Mechanical Workshop - (ESL120)": "https://drive.google.com/file/d/10gCxJUamvCNQVdxqNecrZ4CU1Gw2FLKW/view?usp=sharing",
-      "Electrical & Electronics Workshop - (ESL130)": "https://drive.google.com/file/d/1u9IZ5LCzG_XndUPR34UFd5yze8ASPm2F/view?usp=sharing"
-    },
-    "Semester 2": {
-      "Probability, Statistics And Numerical Methods - (MAT202)": "https://drive.google.com/open?id=1Hs3rpoSPg3YvuM59bx7XLRXjyq158kAW",
-      "Fluid Mechanics And Fire Hydraulics Calculation - (FST202)": "https://drive.google.com/open?id=12o9iaDd4oL93jng6sD27n-Tn8kWKoMfx",
-      "Transfer Operations In Chemical Engineering - (FST204)": "https://drive.google.com/open?id=14dv-CxM4np6PgqQd8cBbQBEdZeVPjBqZ",
-      "Electrical Technology And Safety - (FST206)": "https://drive.google.com/open?id=1uuz-KbTeopH3nl4YUg5rCpzLDMtOhviG",
-      "Design And Engineering - (EST200)": "https://bit.ly/30vPdUZ",
-      "Professional Ethics - (HUT200)": "https://drive.google.com/open?id=14LScVbvduhHqOXOnNlIs9pmtu9glbfTh",
-      "Constitution Of India - (MCN202)": "https://drive.google.com/open?id=14m4FhT2tcaOjO5mYm6lJexrcS6l527hN",
-      "Heat And Mass Transfer Lab - (FSL202)": "https://drive.google.com/open?id=1k-EZZUq53gvz25DWolhpP2nGEYQiz4TP",
-      "Fluid Mechanics Lab - (FSL204)": "https://drive.google.com/open?id=1WxuOBSP1qNjNEu86Sg9UpJsdxsNGH7nL",
-      "Remedial/Minor/Honors Course - (VAC) - S4": "http://www.ktuqbank.com/2020/07/safety-fire-engineering-year-2-syllabus.html"
-    },
-    "Semester 3": {
-      "Hazard Identification And Risk Assessment - (FST302)": "#",
-      "Structural Fire Safety - (FST304)": "#",
-      "Process Safety And Control Engineering - (FST306)": "#",
-      "Elective - I": "http://www.ktuqbank.com/2020/07/safety-fire-engineering-year-3-syllabus.html",
-      "Industrial Economics And Foreign Trade - (HUT300)": "https://drive.google.com/open?id=1qnF492yplugfv3lXkeuZ6_GyQDdj5Gha",
-      "Management For Engineers - (HUT310)": "https://drive.google.com/open?id=1SmAHdP63PFRPqrcmRjDSeURtK2mr4-UA",
-      "Comprehensive Course Work - (FST308)": "#",
-      "Environmental Engineering And Industrial Hygiene Lab - (FSL332)": "#",
-      "Miniproject - (FSD334)": "#",
-      "Remedial/Minor/Honours Course - (VAC)": "#"
-    },
-    "Semester 4": {
-      "Human Factors Engineering And Behaviour Based Safety - (FST402)": "#",
-      "Elective - III": "http://www.ktuqbank.com/2020/07/safety-fire-engineering-year-4-syllabus.html",
-      "Elective - IV": "http://www.ktuqbank.com/2020/07/safety-fire-engineering-year-4-syllabus.html",
-      "Elective - V": "http://www.ktuqbank.com/2020/07/safety-fire-engineering-year-4-syllabus.html",
-      "Comprehensive Course Viva - (FST404)": "#",
-      "Project Phase II - (FSD416)": "#",
       "Remedial/Minor/Honors Course - (VAC)": "#"
     }
   }
