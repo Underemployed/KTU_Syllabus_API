@@ -15,7 +15,7 @@ This Flask application serves as an API for scraping and searching syllabus data
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/syllabus-scraper.git
+   git clone https://github.com/Underemployed/syllabus-scraper.git
    ```
 
 2. Install the required Python packages:
