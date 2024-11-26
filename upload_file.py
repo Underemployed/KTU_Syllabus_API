@@ -7,14 +7,36 @@ from googleapiclient.http import MediaFileUpload
 
 SCOPES = ['https://www.googleapis.com/auth/drive']
 SERVICE_ACCOUNT_FILE = "service_account.json"
-PARENT_FOLDER_ID = "1Am-sllHc9rEdKpnYEaitzFHN8oUsR-LY" 
+PARENT_FOLDER_ID = "1Am-sllHc9rEdKpnYEaitzFHN8oUsR-LY"
 
 def get_drive_service():
     credentials = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
     return build('drive', 'v3', credentials=credentials)
 
+def get_folder_id(service, folder_name, parent_id=None):
+    query = f"name='{folder_name}' and mimeType='application/vnd.google-apps.folder'"
+    if parent_id:
+        query += f" and '{parent_id}' in parents"
+    
+    results = service.files().list(
+        q=query,
+        spaces='drive',
+        fields='files(id, name)',
+        supportsAllDrives=True
+    ).execute()
+    
+    items = results.get('files', [])
+    if items:
+        return items[0]['id']
+    return None
+
 def create_folder(service, folder_name, parent_id=None):
+    folder_id = get_folder_id(service, folder_name, parent_id)
+    if folder_id:
+        print(f'Folder already exists: {folder_name} with ID: {folder_id}')
+        return folder_id
+    
     folder_metadata = {
         'name': folder_name,
         'mimeType': 'application/vnd.google-apps.folder',
@@ -23,7 +45,8 @@ def create_folder(service, folder_name, parent_id=None):
     
     folder = service.files().create(
         body=folder_metadata,
-        fields='id'
+        fields='id',
+        supportsAllDrives=True
     ).execute()
     
     print(f'Created folder: {folder_name} with ID: {folder.get("id")}')

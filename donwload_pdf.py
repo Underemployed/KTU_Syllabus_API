@@ -45,11 +45,18 @@ def sanitize_filename(filename):
     return re.sub(r'[^\w\s-]', '', filename).strip()
 
 
+def expand_bitlink(bitlink):
+    response = requests.head(bitlink, allow_redirects=True)
+    return response.url
+
+
 with open('syllabus.json', 'r') as f:
     data = json.load(f)
 
 if not os.path.exists('pdfs'):
     os.makedirs('pdfs')
+
+failed_downloads = []
 
 for branch_name, semesters in data.items():
     for semester, courses in semesters.items():
@@ -63,11 +70,24 @@ for branch_name, semesters in data.items():
                 print(f"File already exists, skipping: {filename}")
                 continue
 
+            if 'bit.ly' in drive_link:
+                drive_link = expand_bitlink(drive_link)
+
             file_id = extract_google_drive_id(drive_link)
             if file_id:
                 print(f"Downloading {filename}")
-                download_file_from_google_drive(file_id, filename)
-                print(f"Successfully downloaded {filename}")
+                try:
+                    download_file_from_google_drive(file_id, filename)
+                    print(f"Successfully downloaded {filename}")
+                except Exception as e:
+                    print(f"Failed to download {filename}: {e}")
+                    failed_downloads.append(filename)
             else:
                 print(f"Failed to extract file ID from URL: {drive_link}")
-                print("All files have been processed.")
+                failed_downloads.append(filename)
+
+print("All files have been processed.")
+if failed_downloads:
+    print("Failed downloads:")
+    for failed in failed_downloads:
+        print(failed)
